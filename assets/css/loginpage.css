@@ -1,0 +1,118 @@
+#top {
+    height: 80px;
+}
+
+.logo {
+    position: absolute;
+    bottom: -70px;
+}
+
+span.welcome {
+    font-weight: unset;
+    font-size: 25px;
+    position: absolute;
+    bottom: -75px;
+}
+
+.talk {
+    width: 23px;
+    height: 18px;
+    position: absolute;
+    right: 130px;
+    bottom: -75px;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+}
+
+.code,.account {
+    width: 165px;
+    height: 50px;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+    border-bottom: 1px solid gray;
+    color: gray;
+    font-weight: bold;
+}
+
+.account {
+    color: #E4393C;
+}
+
+#middle {
+    background-image: url("../image/loginbackgroud.png");
+    height: 500px;
+}
+
+.login {
+    position: absolute;
+    background-color: white;
+    width: 330px;
+    height: 350px;
+    right: 0px;
+    bottom: 100px;
+}
+
+.side {
+    background-color: #970100;
+    height: 500px;
+}
+
+.id {
+    text-align: center;
+    position: absolute;
+    bottom: 220px;
+    right: 80px;
+}
+
+.password {
+    position: absolute;
+    text-align: center;
+    bottom: 170px;
+    right: 80px;
+}
+
+.copyrigth {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+}
+
+.button input {
+    position: absolute;
+    color: white;
+    background-color: #E4393C;
+    border: 0px;
+    width: 150px;
+    height: 30px;
+    right: 97px;
+    bottom: 120px;
+}
+
+.page {
+    position: absolute;
+    color: #9d9d9d;
+    right: 0px;
+    bottom: -75px;
+}
+
+.on {
+    color: #E4393C;
+    text-decoration-color: #E4393C;
+    text-decoration: underline;
+}
+
+.under {
+    height: 50px;
+    text-align: center;
+    line-height: 60px;
+}
+
+.info {
+    text-align: center;
+}
